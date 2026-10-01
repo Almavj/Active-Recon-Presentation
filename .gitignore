@@ -1,0 +1,17 @@
+# Unrelated files kept out of this repository
+*.webp
+cybersec-schedule.jpeg
+images/
+CSK-mentorship.pdf
+Active_Recon_Nmap.pdf.orig
+
+# Nested repository (lives at github.com/Almavj/OSINT-for-hackers-presentation)
+OSINT/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
