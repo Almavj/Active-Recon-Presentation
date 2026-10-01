@@ -13,9 +13,9 @@
 
 **22 slides · PDF + editable PowerPoint**
 
-[Download the deck (PDF)](./Active_Recon_Nmap.pdf) · [Get the slides (PPTX)](./Active_Recon_Nmap.pptx)
+[Download the deck (PDF)](./Active_Recon/Active_Recon_Nmap.pdf) · [Get the slides (PPTX)](./Active_Recon/Active_Recon_Nmap.pptx)
 
-![Active Reconnaissance and Network Scanning](./Active-recon.png)
+![Active Reconnaissance and Network Scanning](./Active_Recon/Active-recon.png)
 
 </div>
 
@@ -169,9 +169,11 @@ before you begin.
 
 | File | Description |
 |------|-------------|
-| `Active_Recon_Nmap.pdf` | Read-only deck for distribution and printing |
-| `Active_Recon_Nmap.pptx` | Editable source for instructors and contributors |
-| `Active-recon.png` | Cover artwork |
+| [`Active_Recon/Active_Recon_Nmap.pdf`](./Active_Recon/Active_Recon_Nmap.pdf) | Read-only deck for distribution and printing |
+| [`Active_Recon/Active_Recon_Nmap.pptx`](./Active_Recon/Active_Recon_Nmap.pptx) | Editable source for instructors and contributors |
+| [`Active_Recon/Active-recon.png`](./Active_Recon/Active-recon.png) | Cover artwork |
+
+All deck content lives in the [`Active_Recon/`](./Active_Recon) folder.
 
 ---
 
